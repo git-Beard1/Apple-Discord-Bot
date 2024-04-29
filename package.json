@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  },
+  "name": "discordbot",
+  "version": "1.0.0",
+  "main": "verification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon verification.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Thiha Swan Htet",
+  "license": "ISC",
+  "description": "A discord verification bot for Apple Dev SIG",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/git-Beard1/Apple-Discord-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/git-Beard1/Apple-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/git-Beard1/Apple-Discord-Bot#readme"
+}
